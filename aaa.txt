@@ -1,7 +1,10 @@
 
 eqweqweqwedasdas32323dasdasdasd
 
+<<<<<<< HEAD
 dasdas
 dasdas
 dsadasd
 1212
+=======
+>>>>>>> parent of 6d5e32d... eweewewewewewewewe
